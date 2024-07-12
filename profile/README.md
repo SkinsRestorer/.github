@@ -2,7 +2,7 @@
 
 🙋‍️ Who we are - SkinsRestorer is a Minecraft plugin that allows the modification of in-game skins. That also allows the restoring of skins on offline mode servers.
 
-🌈 Chat with us - Join our [Discord Community](https://skinsrestorer.net/discord) or post in our [GitHub Discussions](https://github.com/SkinsRestorer/SkinsRestorerX/discussions)
+🌈 Chat with us - Join our [Discord Community](https://skinsrestorer.net/discord) or post in our [GitHub Discussions](https://github.com/SkinsRestorer/SkinsRestorer/discussions)
 
 👩‍💻 Useful resources - [SpigotMC](https://www.spigotmc.org/resources/2124), [Docs](https://skinsrestorer.net/docs) and [JavaDoc](https://docs.skinsrestorer.net)
 
