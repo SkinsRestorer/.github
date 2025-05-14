@@ -4,7 +4,7 @@
 
 🌈 Chat with us - Join our [Discord Community](https://skinsrestorer.net/discord)
 
-👩‍💻 Useful resources - [Modrinth](https://modrinth.com/plugin/skinsrestorer), [Docs](https://skinsrestorer.net/docs) and [JavaDoc](https://docs.skinsrestorer.net)
+👩‍💻 Useful resources - [Modrinth](https://modrinth.com/plugin/skinsrestorer), [Documentation](https://skinsrestorer.net/docs) and [Javadocs](https://jd.skinsrestorer.net)
 
 🍿 Fun facts - We are the most downloaded plugin on [SpigotMC](https://www.spigotmc.org/resources/?order=download_count)
 
